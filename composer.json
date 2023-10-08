@@ -1,0 +1,14 @@
+{
+    "name": "proze/router",
+    "autoload": {
+        "psr-4": {
+            "Proze\\Router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Skitroz"
+        }
+    ],
+    "require": {}
+}
